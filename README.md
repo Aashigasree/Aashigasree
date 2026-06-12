@@ -7,22 +7,6 @@
 Building real-world web applications with Python, Django and JavaScript.
 
 <p align="center">
-
-<a href="mailto:aashigasree@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Aashigasree">
-<img src="https://img.shields.io/badge/GitHub-Profile-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/aashiga-sree-911a86333/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=Aashigasree&style=for-the-badge&color=6C63FF"/>
 </p>
 

@@ -6,7 +6,7 @@
 
 Building real-world web applications with Python, Django and JavaScript.
 
-<p align="center">
+<p>
 <img src="https://komarev.com/ghpvc/?username=Aashigasree&style=for-the-badge&color=6C63FF"/>
 </p>
 

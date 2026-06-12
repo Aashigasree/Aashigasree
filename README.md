@@ -55,9 +55,9 @@ I enjoy transforming ideas into complete products, learning modern software engi
 | Project                             | Description                                                        | Stack           |
 | ----------------------------------- | ------------------------------------------------------------------ | --------------- |
 | 🎓 Smart Academic Management System | Academic platform with attendance, leave management and dashboards | Django, SQLite  |
+| 🤖 Prompt Injection Detection       | AI-based prompt attack detection project                           | Python, ML, NLP |
 | 🏦 Smart Loan Portal                | Loan application and status tracking system                        | Django, SQL     |
 | 💰 Expense Splitter                 | Shared expense management application                              | Django, SQLite  |
-| 🤖 Prompt Injection Detection       | AI-based prompt attack detection project                           | Python, ML, NLP |
 
 ---
 

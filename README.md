@@ -64,7 +64,7 @@ I enjoy transforming ideas into complete products, learning modern software engi
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aashigasree&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aashigasree&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">

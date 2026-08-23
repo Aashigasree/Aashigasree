@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Hello,%20I%20am%20Aashiga%20Sree&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-### Full Stack Developer • Django Developer
+### Full Stack Developer • Django Developer 
 
 Building real-world web applications with Python, Django and JavaScript.
 
